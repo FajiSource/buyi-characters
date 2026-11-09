@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "characters": [
+    {
+      "id": "boy-black-teen",
+      "name": "Teen Boy",
+      "cover": "celebrating",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "boy-black-teen/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "boy-black-teen/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "boy-black-teen/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "boy-black-teen/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "boy-black-teen/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "boy-black-teen/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "boy-black-teen/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "boy-black-teen/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "boy-black-teen/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "dad-black-adult",
+      "name": "Dad",
+      "cover": "celebrating",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "dad-black-adult/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "dad-black-adult/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "dad-black-adult/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "dad-black-adult/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "dad-black-adult/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "dad-black-adult/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "dad-black-adult/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "dad-black-adult/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "dad-black-adult/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "girl-violet-teen",
+      "name": "Teen Girl",
+      "cover": "celebrating",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "girl-violet-teen/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "girl-violet-teen/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "girl-violet-teen/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "girl-violet-teen/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "girl-violet-teen/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "girl-violet-teen/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "girl-violet-teen/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "girl-violet-teen/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "girl-violet-teen/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "mom-violet-adult",
+      "name": "Mom",
+      "cover": "celebrating",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "mom-violet-adult/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "mom-violet-adult/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "mom-violet-adult/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "mom-violet-adult/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "mom-violet-adult/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "mom-violet-adult/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "mom-violet-adult/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "mom-violet-adult/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "mom-violet-adult/09-celebrating.png"
+        }
+      ]
+    }
+  ]
+}
