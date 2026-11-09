@@ -5,6 +5,7 @@
       "id": "boy-black-teen",
       "name": "Miguel",
       "cover": "celebrating",
+      "rev": "50f9dae4fd",
       "poses": [
         {
           "id": "broke-worried",
@@ -48,6 +49,7 @@
       "id": "dad-black-adult",
       "name": "Ramon",
       "cover": "celebrating",
+      "rev": "3e4c13dce2",
       "poses": [
         {
           "id": "broke-worried",
@@ -91,6 +93,7 @@
       "id": "girl-violet-teen",
       "name": "Bianca",
       "cover": "celebrating",
+      "rev": "4551bf5954",
       "poses": [
         {
           "id": "broke-worried",
@@ -134,6 +137,7 @@
       "id": "mom-violet-adult",
       "name": "Teresa",
       "cover": "celebrating",
+      "rev": "a72f599902",
       "poses": [
         {
           "id": "broke-worried",
