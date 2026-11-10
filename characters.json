@@ -2,706 +2,574 @@
   "version": 1,
   "characters": [
     {
-      "id": "boy-black-teen",
-      "name": "Miguel",
-      "cover": "celebrating",
-      "rev": "0e84b34b2a",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-black-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-black-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-black-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-black-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-black-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-black-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-black-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-black-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-black-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-curly-teen",
-      "name": "Gabriel",
-      "cover": "celebrating",
-      "rev": "b79eabb12d",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-curly-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-curly-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-curly-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-curly-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-curly-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-curly-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-curly-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-curly-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-curly-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-glasses-teen",
-      "name": "Rafael",
-      "cover": "celebrating",
-      "rev": "6816f6c22f",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-glasses-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-glasses-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-glasses-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-glasses-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-glasses-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-glasses-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-glasses-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-glasses-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-glasses-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-green-teen",
-      "name": "Marco",
-      "cover": "celebrating",
-      "rev": "466c979f53",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-green-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-green-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-green-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-green-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-green-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-green-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-green-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-green-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-green-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-navy-teen",
-      "name": "Enzo",
-      "cover": "celebrating",
-      "rev": "c88c852fd5",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-navy-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-navy-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-navy-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-navy-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-navy-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-navy-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-navy-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-navy-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-navy-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-sprout-teen",
-      "name": "Paolo",
-      "cover": "celebrating",
-      "rev": "83a93ae2cf",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "boy-sprout-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "boy-sprout-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "boy-sprout-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "boy-sprout-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "boy-sprout-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "boy-sprout-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "boy-sprout-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "boy-sprout-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "boy-sprout-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "boy-teal-teen",
-      "name": "Carlo",
+      "id": "aiven",
+      "name": "Aiven",
       "cover": "celebrating",
       "rev": "7ea88aa7ca",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "boy-teal-teen/01-broke-worried.png"
+          "file": "Aiven/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "boy-teal-teen/02-rich-flex.png"
+          "file": "Aiven/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "boy-teal-teen/03-shopping-cart-empty.png"
+          "file": "Aiven/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "boy-teal-teen/04-shopping-cart-full.png"
+          "file": "Aiven/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "boy-teal-teen/05-studying-book.png"
+          "file": "Aiven/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "boy-teal-teen/06-thinking.png"
+          "file": "Aiven/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "boy-teal-teen/07-piggy-bank-saving.png"
+          "file": "Aiven/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "boy-teal-teen/08-writing-budget-list.png"
+          "file": "Aiven/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "boy-teal-teen/09-celebrating.png"
+          "file": "Aiven/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "dad-black-adult",
-      "name": "Ramon",
-      "cover": "celebrating",
-      "rev": "3e4c13dce2",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "dad-black-adult/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "dad-black-adult/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "dad-black-adult/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "dad-black-adult/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "dad-black-adult/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "dad-black-adult/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "dad-black-adult/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "dad-black-adult/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "dad-black-adult/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "girl-olive-teen",
-      "name": "Clarisse",
-      "cover": "celebrating",
-      "rev": "0c8e9c2adf",
-      "poses": [
-        {
-          "id": "broke-worried",
-          "file": "girl-olive-teen/01-broke-worried.png"
-        },
-        {
-          "id": "rich-flex",
-          "file": "girl-olive-teen/02-rich-flex.png"
-        },
-        {
-          "id": "shopping-cart-empty",
-          "file": "girl-olive-teen/03-shopping-cart-empty.png"
-        },
-        {
-          "id": "shopping-cart-full",
-          "file": "girl-olive-teen/04-shopping-cart-full.png"
-        },
-        {
-          "id": "studying-book",
-          "file": "girl-olive-teen/05-studying-book.png"
-        },
-        {
-          "id": "thinking",
-          "file": "girl-olive-teen/06-thinking.png"
-        },
-        {
-          "id": "piggy-bank-saving",
-          "file": "girl-olive-teen/07-piggy-bank-saving.png"
-        },
-        {
-          "id": "writing-budget-list",
-          "file": "girl-olive-teen/08-writing-budget-list.png"
-        },
-        {
-          "id": "celebrating",
-          "file": "girl-olive-teen/09-celebrating.png"
-        }
-      ]
-    },
-    {
-      "id": "girl-orange-teen",
-      "name": "Isabel",
+      "id": "ansley",
+      "name": "Ansley",
       "cover": "celebrating",
       "rev": "52b5cdf5a1",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "girl-orange-teen/01-broke-worried.png"
+          "file": "Ansley/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "girl-orange-teen/02-rich-flex.png"
+          "file": "Ansley/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "girl-orange-teen/03-shopping-cart-empty.png"
+          "file": "Ansley/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "girl-orange-teen/04-shopping-cart-full.png"
+          "file": "Ansley/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "girl-orange-teen/05-studying-book.png"
+          "file": "Ansley/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "girl-orange-teen/06-thinking.png"
+          "file": "Ansley/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "girl-orange-teen/07-piggy-bank-saving.png"
+          "file": "Ansley/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "girl-orange-teen/08-writing-budget-list.png"
+          "file": "Ansley/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "girl-orange-teen/09-celebrating.png"
+          "file": "Ansley/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "girl-pink-teen",
-      "name": "Jasmine",
+      "id": "cyril",
+      "name": "Cyril",
       "cover": "celebrating",
-      "rev": "75920a73c0",
+      "rev": "0c8e9c2adf",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "girl-pink-teen/01-broke-worried.png"
+          "file": "Cyril/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "girl-pink-teen/02-rich-flex.png"
+          "file": "Cyril/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "girl-pink-teen/03-shopping-cart-empty.png"
+          "file": "Cyril/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "girl-pink-teen/04-shopping-cart-full.png"
+          "file": "Cyril/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "girl-pink-teen/05-studying-book.png"
+          "file": "Cyril/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "girl-pink-teen/06-thinking.png"
+          "file": "Cyril/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "girl-pink-teen/07-piggy-bank-saving.png"
+          "file": "Cyril/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "girl-pink-teen/08-writing-budget-list.png"
+          "file": "Cyril/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "girl-pink-teen/09-celebrating.png"
+          "file": "Cyril/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "girl-stripe-teen",
-      "name": "Sofia",
+      "id": "francesca",
+      "name": "Francesca",
       "cover": "celebrating",
       "rev": "23d06efbc3",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "girl-stripe-teen/01-broke-worried.png"
+          "file": "Francesca/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "girl-stripe-teen/02-rich-flex.png"
+          "file": "Francesca/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "girl-stripe-teen/03-shopping-cart-empty.png"
+          "file": "Francesca/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "girl-stripe-teen/04-shopping-cart-full.png"
+          "file": "Francesca/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "girl-stripe-teen/05-studying-book.png"
+          "file": "Francesca/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "girl-stripe-teen/06-thinking.png"
+          "file": "Francesca/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "girl-stripe-teen/07-piggy-bank-saving.png"
+          "file": "Francesca/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "girl-stripe-teen/08-writing-budget-list.png"
+          "file": "Francesca/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "girl-stripe-teen/09-celebrating.png"
+          "file": "Francesca/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "girl-teal-teen",
-      "name": "Andrea",
+      "id": "james",
+      "name": "James",
+      "cover": "celebrating",
+      "rev": "c88c852fd5",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "James/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "James/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "James/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "James/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "James/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "James/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "James/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "James/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "James/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "kelsey",
+      "name": "Kelsey",
       "cover": "celebrating",
       "rev": "eb87ea1f94",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "girl-teal-teen/01-broke-worried.png"
+          "file": "Kelsey/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "girl-teal-teen/02-rich-flex.png"
+          "file": "Kelsey/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "girl-teal-teen/03-shopping-cart-empty.png"
+          "file": "Kelsey/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "girl-teal-teen/04-shopping-cart-full.png"
+          "file": "Kelsey/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "girl-teal-teen/05-studying-book.png"
+          "file": "Kelsey/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "girl-teal-teen/06-thinking.png"
+          "file": "Kelsey/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "girl-teal-teen/07-piggy-bank-saving.png"
+          "file": "Kelsey/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "girl-teal-teen/08-writing-budget-list.png"
+          "file": "Kelsey/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "girl-teal-teen/09-celebrating.png"
+          "file": "Kelsey/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "girl-violet-teen",
-      "name": "Bianca",
+      "id": "kelvin",
+      "name": "Kelvin",
       "cover": "celebrating",
-      "rev": "281a11b465",
+      "rev": "b79eabb12d",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "girl-violet-teen/01-broke-worried.png"
+          "file": "Kelvin/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "girl-violet-teen/02-rich-flex.png"
+          "file": "Kelvin/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "girl-violet-teen/03-shopping-cart-empty.png"
+          "file": "Kelvin/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "girl-violet-teen/04-shopping-cart-full.png"
+          "file": "Kelvin/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "girl-violet-teen/05-studying-book.png"
+          "file": "Kelvin/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "girl-violet-teen/06-thinking.png"
+          "file": "Kelvin/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "girl-violet-teen/07-piggy-bank-saving.png"
+          "file": "Kelvin/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "girl-violet-teen/08-writing-budget-list.png"
+          "file": "Kelvin/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "girl-violet-teen/09-celebrating.png"
+          "file": "Kelvin/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "kid-blue-teen",
-      "name": "Alex",
+      "id": "mielle",
+      "name": "Mielle",
+      "cover": "celebrating",
+      "rev": "75920a73c0",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "Mielle/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "Mielle/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "Mielle/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "Mielle/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "Mielle/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "Mielle/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "Mielle/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "Mielle/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "Mielle/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "orwin",
+      "name": "Orwin",
+      "cover": "celebrating",
+      "rev": "83a93ae2cf",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "Orwin/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "Orwin/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "Orwin/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "Orwin/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "Orwin/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "Orwin/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "Orwin/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "Orwin/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "Orwin/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "rainer",
+      "name": "Rainer",
+      "cover": "celebrating",
+      "rev": "6816f6c22f",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "Rainer/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "Rainer/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "Rainer/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "Rainer/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "Rainer/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "Rainer/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "Rainer/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "Rainer/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "Rainer/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "ryu",
+      "name": "Ryu",
+      "cover": "celebrating",
+      "rev": "466c979f53",
+      "poses": [
+        {
+          "id": "broke-worried",
+          "file": "Ryu/01-broke-worried.png"
+        },
+        {
+          "id": "rich-flex",
+          "file": "Ryu/02-rich-flex.png"
+        },
+        {
+          "id": "shopping-cart-empty",
+          "file": "Ryu/03-shopping-cart-empty.png"
+        },
+        {
+          "id": "shopping-cart-full",
+          "file": "Ryu/04-shopping-cart-full.png"
+        },
+        {
+          "id": "studying-book",
+          "file": "Ryu/05-studying-book.png"
+        },
+        {
+          "id": "thinking",
+          "file": "Ryu/06-thinking.png"
+        },
+        {
+          "id": "piggy-bank-saving",
+          "file": "Ryu/07-piggy-bank-saving.png"
+        },
+        {
+          "id": "writing-budget-list",
+          "file": "Ryu/08-writing-budget-list.png"
+        },
+        {
+          "id": "celebrating",
+          "file": "Ryu/09-celebrating.png"
+        }
+      ]
+    },
+    {
+      "id": "samira",
+      "name": "Samira",
       "cover": "celebrating",
       "rev": "0b5991520a",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "kid-blue-teen/01-broke-worried.png"
+          "file": "Samira/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "kid-blue-teen/02-rich-flex.png"
+          "file": "Samira/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "kid-blue-teen/03-shopping-cart-empty.png"
+          "file": "Samira/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "kid-blue-teen/04-shopping-cart-full.png"
+          "file": "Samira/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "kid-blue-teen/05-studying-book.png"
+          "file": "Samira/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "kid-blue-teen/06-thinking.png"
+          "file": "Samira/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "kid-blue-teen/07-piggy-bank-saving.png"
+          "file": "Samira/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "kid-blue-teen/08-writing-budget-list.png"
+          "file": "Samira/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "kid-blue-teen/09-celebrating.png"
+          "file": "Samira/09-celebrating.png"
         }
       ]
     },
     {
-      "id": "mom-violet-adult",
-      "name": "Teresa",
+      "id": "shaina",
+      "name": "Shaina",
       "cover": "celebrating",
       "rev": "ce1b4998cc",
       "poses": [
         {
           "id": "broke-worried",
-          "file": "mom-violet-adult/01-broke-worried.png"
+          "file": "Shaina/01-broke-worried.png"
         },
         {
           "id": "rich-flex",
-          "file": "mom-violet-adult/02-rich-flex.png"
+          "file": "Shaina/02-rich-flex.png"
         },
         {
           "id": "shopping-cart-empty",
-          "file": "mom-violet-adult/03-shopping-cart-empty.png"
+          "file": "Shaina/03-shopping-cart-empty.png"
         },
         {
           "id": "shopping-cart-full",
-          "file": "mom-violet-adult/04-shopping-cart-full.png"
+          "file": "Shaina/04-shopping-cart-full.png"
         },
         {
           "id": "studying-book",
-          "file": "mom-violet-adult/05-studying-book.png"
+          "file": "Shaina/05-studying-book.png"
         },
         {
           "id": "thinking",
-          "file": "mom-violet-adult/06-thinking.png"
+          "file": "Shaina/06-thinking.png"
         },
         {
           "id": "piggy-bank-saving",
-          "file": "mom-violet-adult/07-piggy-bank-saving.png"
+          "file": "Shaina/07-piggy-bank-saving.png"
         },
         {
           "id": "writing-budget-list",
-          "file": "mom-violet-adult/08-writing-budget-list.png"
+          "file": "Shaina/08-writing-budget-list.png"
         },
         {
           "id": "celebrating",
-          "file": "mom-violet-adult/09-celebrating.png"
+          "file": "Shaina/09-celebrating.png"
         }
       ]
     }
