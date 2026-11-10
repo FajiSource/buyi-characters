@@ -17,5 +17,14 @@ downloads a character's poses to the device when the user taps it.
 5. Run `node scripts/build-manifest.mjs` and commit `characters.json` with the images.
    Each character gets a `rev` hash; when images change, the app re-downloads them.
 
+## Free and paid characters
+
+Orwin and Shaina are free; every other character is paid. The list lives in
+`FREE_CHARACTERS` in `scripts/build-manifest.mjs`, which writes a
+`productId` of `character_<id>` for each paid character. Before pushing a new
+paid character, create that one-time product in Google Play Console and attach
+it in RevenueCat (entitlement with the same id, plus a package in the
+`characters` offering). Otherwise the app shows it locked with no price.
+
 Don't rename or delete an existing character folder (other than changing its capitalisation): users who already
 downloaded it keep its id.

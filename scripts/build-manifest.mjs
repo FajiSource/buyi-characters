@@ -11,6 +11,9 @@ import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const COVER_POSE = 'celebrating';
+// Everyone else is paid. A paid character's Google Play product (and RevenueCat entitlement)
+// is `character_<id>`; create it in Play Console before pushing a new paid character.
+const FREE_CHARACTERS = new Set(['orwin', 'shaina']);
 
 const characters = readdirSync(root)
   .filter((d) => !d.startsWith('.') && d !== 'scripts' && d !== 'new-need-to-excract' && statSync(join(root, d)).isDirectory())
@@ -26,7 +29,9 @@ const characters = readdirSync(root)
     const hash = createHash('sha1');
     for (const pose of poses) hash.update(pose.id).update(readFileSync(join(root, pose.file)));
     const rev = hash.digest('hex').slice(0, 10);
-    return { id: id.toLowerCase(), name: id, cover: cover.id, rev, poses };
+    const characterId = id.toLowerCase();
+    const productId = FREE_CHARACTERS.has(characterId) ? undefined : `character_${characterId}`;
+    return { id: characterId, name: id, cover: cover.id, rev, ...(productId && { productId }), poses };
   })
   .filter(Boolean);
 

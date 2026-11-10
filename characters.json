@@ -6,6 +6,7 @@
       "name": "Aiven",
       "cover": "celebrating",
       "rev": "7ea88aa7ca",
+      "productId": "character_aiven",
       "poses": [
         {
           "id": "broke-worried",
@@ -50,6 +51,7 @@
       "name": "Ansley",
       "cover": "celebrating",
       "rev": "52b5cdf5a1",
+      "productId": "character_ansley",
       "poses": [
         {
           "id": "broke-worried",
@@ -94,6 +96,7 @@
       "name": "Cyril",
       "cover": "celebrating",
       "rev": "0c8e9c2adf",
+      "productId": "character_cyril",
       "poses": [
         {
           "id": "broke-worried",
@@ -138,6 +141,7 @@
       "name": "Francesca",
       "cover": "celebrating",
       "rev": "23d06efbc3",
+      "productId": "character_francesca",
       "poses": [
         {
           "id": "broke-worried",
@@ -182,6 +186,7 @@
       "name": "James",
       "cover": "celebrating",
       "rev": "c88c852fd5",
+      "productId": "character_james",
       "poses": [
         {
           "id": "broke-worried",
@@ -226,6 +231,7 @@
       "name": "Kelsey",
       "cover": "celebrating",
       "rev": "eb87ea1f94",
+      "productId": "character_kelsey",
       "poses": [
         {
           "id": "broke-worried",
@@ -270,6 +276,7 @@
       "name": "Kelvin",
       "cover": "celebrating",
       "rev": "b79eabb12d",
+      "productId": "character_kelvin",
       "poses": [
         {
           "id": "broke-worried",
@@ -314,6 +321,7 @@
       "name": "Mielle",
       "cover": "celebrating",
       "rev": "75920a73c0",
+      "productId": "character_mielle",
       "poses": [
         {
           "id": "broke-worried",
@@ -402,6 +410,7 @@
       "name": "Rainer",
       "cover": "celebrating",
       "rev": "6816f6c22f",
+      "productId": "character_rainer",
       "poses": [
         {
           "id": "broke-worried",
@@ -446,6 +455,7 @@
       "name": "Ryu",
       "cover": "celebrating",
       "rev": "466c979f53",
+      "productId": "character_ryu",
       "poses": [
         {
           "id": "broke-worried",
@@ -490,6 +500,7 @@
       "name": "Samira",
       "cover": "celebrating",
       "rev": "0b5991520a",
+      "productId": "character_samira",
       "poses": [
         {
           "id": "broke-worried",
